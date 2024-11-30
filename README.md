@@ -1,6 +1,10 @@
-## Hi there 👋
+<p align="center">
+  <a href="http://www.shyrobin.top/" target="_blank"><img  align=center src="https://img.shields.io/badge/Blog-博客-%23f68e3f?style=flat"/></a>&emsp;
+  <a href="https://juejin.cn/user/3219797679017726" target="_blank"><img  align=center src="https://img.shields.io/badge/Juejin-掘金-%233f7ef6?style=flat"/></a>&emsp;
+  <a href="https://space.bilibili.com/385323909" target="_blank"><img  align=center src="https://img.shields.io/badge/Bilibili-B站-%23e87a99?style=flat"/></a>
+</div>
 
-<a href="https://space.bilibili.com/385323909" target="_blank"><img  align=center src="https://img.shields.io/badge/Bilibili-B站-%23e87a99?style=flat"/></a>
+## 🔭 I’m currently learning (沉淀中) ...
 
 <!--
 **shy-robin/shy-robin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
