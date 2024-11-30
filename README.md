@@ -6,7 +6,7 @@
 
 ## 🔭 I’m currently learning (沉淀中) ...
 
-<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=shy-robin&locale=cn&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=github"/><img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shy-robin&locale=cn&line_height=33&theme=dark&langs_count=5"/>
+<img height="180px" align="left" src="https://github-readme-stats.vercel.app/api?username=shy-robin&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=github"/><img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shy-robin&locale=cn&line_height=33&theme=&langs_count=5"/>
 
 <!--
 **shy-robin/shy-robin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
